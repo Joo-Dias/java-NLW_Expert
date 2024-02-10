@@ -6,8 +6,9 @@ O projeto é uma API com foco em emitir uma certificação de alguma tecnologia 
 
 # Tecnologias 🌟
 - Java ☕
-- Spring Boot
-- Postgres SQL
+- Spring Boot 🍃
+- Postgres SQL 🐘
+- Docker 🐋
 
 # Visual Studio Code
 Caso esteja usando o Visual Studio Code, rode o seguinte comando no terminal para rodar o projeto:
